@@ -4,7 +4,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#purpose-of-project">Purpose of Project</a></li>
-    <li><a href="#about">About</a></li>
     <li><a href="#architecture">Architecture</a></li>
     <li><a href="#technologies">Technologies</a></li>
     <li><a href="#how-to-run">How to run</a></li>
@@ -16,10 +15,6 @@
 
 * Train a model to detect if the person is wearing mask or not
 * Using Transfer Learning
-
-## About
-
-I still don't know how to write About at all
 
 ## Architecture
 
