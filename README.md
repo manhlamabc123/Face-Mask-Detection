@@ -18,7 +18,7 @@
 
 ## Architecture
 
-* This project uses OpenCV to detect the face, then crop it out then use pre-trained model
+* This project uses Haar Cascade to detect the face, then crop it out then use pre-trained model
 * Pre-trained model: This model applied Transfer Learning on pre-trained MobileNet. I only trained on last 2 added layers
 
 ## Technologies
